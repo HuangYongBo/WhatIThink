@@ -1,2 +1,3 @@
 # WhatIThink
-something I think 
+something I think
+I think 
